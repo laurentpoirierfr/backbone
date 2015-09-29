@@ -17,4 +17,16 @@ Façade rest exemple :
 
 
 
+## Autre exemple
+
+Génération de la documentation en markdown via le plugin Doxia maven.
+
+	mvn site
+	
+Accès à la documentation :
+
+	${basedir}/target/site/index.html
+	
+
+	
 
