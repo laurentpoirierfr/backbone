@@ -1,6 +1,6 @@
 # Notes
 
-![example image](src/site/images/pirate-484x512.png "An'na")
+![example image](src/site/images/pirate-242x256.png "An'na")
 
 ## Backbone with RestHub framework
 
