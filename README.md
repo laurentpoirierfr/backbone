@@ -19,7 +19,7 @@ Façade rest exemple :
 
 
 
-## Autre exemple
+## Génération de la documentation Skin Bootstrap
 
 Génération de la documentation en markdown via le plugin Doxia maven.
 
@@ -27,7 +27,7 @@ Génération de la documentation en markdown via le plugin Doxia maven.
 	
 Accès à la documentation :
 
-	${basedir}/target/site/index.html
+	${project.build.directory}/target/site/index.html
 	
 
 	
