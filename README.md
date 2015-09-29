@@ -1,5 +1,7 @@
 # Notes
 
+![example image](src/site/images/pirate-484x512.png "An'na")
+
 ## Backbone with RestHub framework
 
 Exemple d'utilisation de backbone avec Resthub.
