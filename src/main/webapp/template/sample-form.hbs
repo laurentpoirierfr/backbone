@@ -1,0 +1,18 @@
+<h3>Sample {{model.id}}</h3>
+<form role="form"> 
+  <div class="form-group">
+    <label for="name-field">Name:</label>
+    <input type="text" class="form-control" id="name-field" value="{{model.name}}" >
+  </div>
+  <div class="form-group">
+    <label for="desc-field">Description:</label>
+    <input type="text" class="form-control" id="desc-field" value="{{model.description}}">
+  </div>
+</form>
+
+     
+<div class="btn-group">
+  <button type="submit" class="btn btn-success" title="Save"><i class="icon-edit icon-white"></i>Save</button>
+  <button type="button" class="btn btn-danger delete" title="Delete"><i class="icon-trash icon-white"></i>Delete</button>
+  <button type="button" class="btn cancel" title="Cancel"><i class="icon-chevron-up"></i>Cancel</button>
+</div
