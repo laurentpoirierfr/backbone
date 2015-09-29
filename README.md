@@ -1,4 +1,6 @@
-# Backbone with RestHub framework
+# Notes
+
+## Backbone with RestHub framework
 
 Exemple d'utilisation de backbone avec Resthub.
 
