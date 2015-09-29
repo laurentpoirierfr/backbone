@@ -18,8 +18,8 @@
 			<topBarIcon>
 				<name>Maven Fluido Skin</name>
 				<alt>Maven Fluido Skin</alt>
-				<src>images/pirate-967x1024.png</src>
-				<href>index.html</href>
+				<src>/images/pirate-242x256.png</src>
+				<href>/index.html</href>
 			</topBarIcon>
 		</fluidoSkin>
 	</custom>
